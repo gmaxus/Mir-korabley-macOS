@@ -1,14 +1,31 @@
 # Мир кораблей на macOS
 
-Данная сборка позволяет играть в Мир кораблей без виртуальной Windows в 1 клик на macOS с Apple silicon и Intel процессорами.
+Данная сборка позволяет играть в Мир кораблей без виртуальной Windows на macOS в 1 клик процессором с Apple silicon.
 
-[![Как играть в Мир танков на macOS](https://img.youtube.com/vi/HiFoog5iDY8/0.jpg)](https://www.youtube.com/watch?v=HiFoog5iDY8)
 
-Смотреть видео:
+Видео с геймплеем:
 
-[![youtube](https://www.youtube.com/s/desktop/f717390d/img/logos/favicon_144x144.png)](https://www.youtube.com/watch?v=HiFoog5iDY8)
-[![rutube](https://static.rutube.ru/static/img/favicon-icons/v3/icon.svg)](https://rutube.ru/video/a3cd6d18a05b8158665809ebafb7221b/)
+#### [YouTube](https://youtu.be/Kku1NjYM3EY)
 
-В данный момент проект находится в стадии бета–тестирования и доступен только на бусти.
+#### [Rutube](https://rutube.ru/video/0ca47163b7ee6301ed33ffc45ca96d5b/)
 
+## Установка
+**только для Apple silicon**
+
+Скачайте и следуйте инструкциям установщика
+
+``` text
+https://git.thisismypage.ru/download/aXPKiqhj63hqzHEipzK4wuUfOn9wHcwvKnbs5oHbtgpoRjSUCUGZlZXDfw4KxmcB
+```
+
+## Актуальные версии:
+| Описание                                             | Версия | Дистрибуция |
+|------------------------------------------------------|:------:|:-----------:|
+| Публичная                                            |  1.3   |   GitHub    |
+| C работающим колёсиком мышки(зуммирование/скроллинг) |  1.5   |   Boosty    |
+
+## Мой бусти
+Проектом занимаюсь благодаря вашей финансовой поддержке, если она прекратится то и проект умрёт.
+
+Если хотите отблагодарить меня за проделанную работу, а также здесь располагается дополнительный платный контент:
 ### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)
