@@ -12,16 +12,18 @@
 ## Установка
 **только для Apple silicon**
 
+Если у вас уже установлена предыдущая сборка, то новая перекинет корабли из старой и перекачивать не придётся
+
 Скачайте и следуйте инструкциям установщика
 
 ``` text
-https://git.thisismypage.ru/download/aXPKiqhj63hqzHEipzK4wuUfOn9wHcwvKnbs5oHbtgpoRjSUCUGZlZXDfw4KxmcB
+http://git.thisismypage.ru/download/Gm2pGOBiJQJZx3onGt6v2fAjWa0xM0mLbpBz8CxGweqrjyIyiBaHoTTWFYbYpIAv
 ```
 
 ## Актуальные версии:
 | Описание                                             | Версия | Дистрибуция |
 |------------------------------------------------------|:------:|:-----------:|
-| Публичная                                            |  1.3   |   GitHub    |
+| Публичная                                            |  1.4   |   GitHub    |
 | C работающим колёсиком мышки(зуммирование/скроллинг) |  1.5   |   Boosty    |
 
 ## Мой бусти
