@@ -20,6 +20,9 @@
 http://git.thisismypage.ru/download/Gm2pGOBiJQJZx3onGt6v2fAjWa0xM0mLbpBz8CxGweqrjyIyiBaHoTTWFYbYpIAv
 ```
 
+Можете отдельно скачать [инструкцию](https://raw.github.com/gmaxus/Mir-korabley-macOS/main/инструкция.rtfd.zip) (она появится после установки)
+
+
 ## Актуальные версии:
 | Описание                                             | Версия | Дистрибуция |
 |------------------------------------------------------|:------:|:-----------:|
