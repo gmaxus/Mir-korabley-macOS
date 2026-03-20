@@ -32,7 +32,11 @@ http://git.thisismypage.ru/download/Gm2pGOBiJQJZx3onGt6v2fAjWa0xM0mLbpBz8CxGweqr
 ## Мой бусти
 Проектом занимаюсь благодаря вашей финансовой поддержке, если она прекратится то и проект умрёт.
 
-Если хотите отблагодарить меня за проделанную работу, а также здесь располагается дополнительный платный контент:
+Если хотите отблагодарить меня за проделанную работу:
+
+CloudTips: [https://pay.cloudtips.ru/p/a89f9537](https://pay.cloudtips.ru/p/a89f9537)
+
+А также на бусти располагается дополнительный платный контент:
 ### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)
 
 <details>
