@@ -17,7 +17,7 @@
 Скачайте и следуйте инструкциям установщика
 
 ``` text
-http://git.thisismypage.ru/download/Gm2pGOBiJQJZx3onGt6v2fAjWa0xM0mLbpBz8CxGweqrjyIyiBaHoTTWFYbYpIAv
+http://git.thisismypage.ru/download/o19ypkhNoYYEWx1NhUpzAZolA8RIp3LzihCxz3lHnkIHuCn37IyrGFU0offaJgTc
 ```
 
 Можете отдельно скачать [инструкцию](https://raw.github.com/gmaxus/Mir-korabley-macOS/main/инструкция.rtfd.zip) (она появится после установки)
